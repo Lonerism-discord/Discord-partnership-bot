@@ -20,6 +20,9 @@ Do not take our word for anything below: the second half of this file shows how 
 > check it from this folder. Running the same prompt yourself is the way to confirm it.
 
 ---
+## Info
+
+We do (((NOT))) allow this code to be used (((WITHOUT))) Telling how you run the bot. every embed should promote back to this page.
 
 ## 1. Is it a nuke bot? What it can and cannot do
 
@@ -339,3 +342,7 @@ warranty.
 ## 10. License
 
 No license has been chosen yet. Until one is added to this repository, all rights are reserved by the author.
+
+## Info
+
+We do (((NOT))) allow this code to be used (((WITHOUT))) Telling how you run the bot. every embed should promote back to this page.
